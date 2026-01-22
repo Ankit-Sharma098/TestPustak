@@ -1,0 +1,11 @@
+class FreeTestModel {
+  final String id;
+  final String title;
+  final String image;
+
+  FreeTestModel({
+    required this.id,
+    required this.title,
+    required this.image,
+  });
+}
